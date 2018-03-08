@@ -1,0 +1,265 @@
+<Animals>
+        <Mammals>
+                <Apes>
+                        <Gibbon>
+                                <Micheal mood others="upset"></Micheal>
+                                <Holly dates="Micheal"></Holly>
+                        </Gibbon>
+
+                        <Chimpanzee>
+                                <Jim pranks="Dwight"></Jim>
+                        	<Dwight farms="beets"></Dwight>
+			</Chimpanzee>
+
+                        <Orangutan>
+				<Erin likes="Andy"></Erin>
+				<Andy sings="A capella"></Andy>
+                        </Orangutan>
+                </Apes>
+
+                <Whales>
+			<Sperm>
+				<Stanley plays="sudoku"></Stanley>
+				<Phillis loves="Bob Vance"></Phillis>
+			</Sperm>
+
+			<Blue>
+				<Bob sells="refrigerators"></Bob>
+				<Kevin eats="cup noodles"></Kevin>
+			</Blue>
+
+			<Humpback>
+				<Darrell likes="Val"></Darrell>
+				<Roy height="tall"></Roy>
+			</Humpback>
+                <Bears>
+			<Black>
+				<Val likes="Darrell"></Val>
+				<Nate is="wierd"></Nate>
+			</Black>
+
+			<Brown>
+				<Gabe is="skinny"></Gabe>
+				<Ronnie interest="boring"></Ronnie> 
+			</Brown>
+
+			<Panda>
+`				<Johannah money="rich"></Johnnah>
+				<Kelly talks="a lot"></Kelly>
+			</Panda>
+		</Bears>
+        </Mammals>
+
+        <Fish>
+		<Bass>
+			<Largemouth>
+				<Pam loves="Jim"></Pam>
+				<Toby volume="quiet"></Toby>
+			</Largemouth>
+		
+			<White>
+				<Ryan loves="money"></Ryan>
+				<Angela likes="cats"></Angela>
+			</White>
+
+			<Striped>
+				<Katy dated="Jim"></Katy>
+				<Oscar smart="yes"></Oscar>
+			</Striped>
+		</Bass>
+
+		<Guppie>
+			<Blue>
+				<Karen kid="yes"></Karen>
+				<Mose cousin="Dwight"></Mose>
+			</Blue>
+
+			<Albino>
+				<Todd is="mean"></Todd>
+				<Robert job="CEO"></Robert>
+			</Albino>
+
+			<Black>
+				<Creed is="old"></Creed>
+				<Kathy likes="Jim"></Kathy>
+			</Black>
+		</Guppie>
+
+		<Shark>
+			<GreatWhite>
+				<Nelly ethnicity="British"></Nelly>
+				<Merideth hair="red"></Merideth>
+			</GreatWhite>
+
+			<Hammerhead>
+				<Ted is="aukward"></Ted>
+				<Barney is="awesome></Barney>
+			</Hammerhead
+
+			<Tiger>
+				<Cicilia is="kid"></Cicilia>
+				<Phillip is="baby"><Phillip>
+			</Tiger>
+		</Shark>
+        </Fish
+
+        <Birds>
+		<Owl>
+			<Horned>
+				<Jan dated="Micheal"></Jan>
+				<Lily married="Marshall"></Lily>
+			</Horned>
+
+			<True>
+				<Marshall married="Lily"></Marshall>
+				<Robin likes="Ted"></Robin>
+			</True>
+
+			<Barn>
+				<Carl job="bartender"></Carl>
+				<Irene age="old"></Irene>			
+			</Barn>
+		</Owl>
+
+		<Falcon>
+			<Aplomado>
+				<McKean plays="Fortnite"></McKean>
+				<Gutierrez ethnicity="Mexican"><Gutierrez>
+			</Aplomado>
+
+			<Peregrine>
+				<Moore volume="loud"></Moore>
+				<Rosas voice="raspy"><Rosas>
+			</Peregrine>
+
+			<Prairie>
+				<Deangelo status="dead"></Deangelo>
+				<Charles wears="suits"></Charles>
+			</Prairie>
+		</Falcon>
+
+		<Eagle>
+			<Bald>
+				<Oliver is="strong"></Oliver>
+				<Harry wears="glasses"></Harry>
+			</Bald>
+
+			<Golden>
+				<Ron colour="red"></Ron>
+				<Hermoine is="smart"></Hermoine>
+			</Golden>
+
+			<Crowned>
+				<Neville is="dumb"></Neville>
+				<Seamus spells="bad"></Seamus>
+			</Crowned>
+		</Eagle>
+        </Birds>
+
+        <Amphibians>
+		<Frog>
+			<PoisonDart>
+				<Luke is="skilled"></Luke>
+				<Obi age="old"></Obi>
+			</PoisonDart>
+
+			<Glass>
+				<Tarik speed="fast"></Tarik>
+				<Mitch complexion="handsome"></Mitch>
+			<Glass>
+
+			<Ghost>
+				<James volume="loud"></James>
+				<Aleks mood="depressed"></James>
+			</Ghost>
+		</Frog>
+
+		<Salamander>
+			<Newt>
+				<Trevor hair="long"></Trevor>
+				<Jacob stomach="weak"></Jacob>
+			</Newt>
+
+			<Lungless>
+				<Asher face="moles"></Asher>
+				<Anna hair="brown"
+			</Lungless>
+
+			<Giant>
+				<Brett arms="strong"></Brett>
+				<Lindsey nose="ring"></Lindsey>
+			</Giant>
+		</Salamander>
+
+		<Caecilian>
+			<Ichthyophis>
+				<Jordan is="powerful"></Jordan>
+				<Kendall height="short"></Kendall>
+			</Ichthyophis>
+
+			<Rhinatrematidae>
+				<Cameron age="young"></Cameron>
+				<Kyle size="big"></Kyle>
+			</Rhinatrematidae>
+				
+			<Scolecomorphidae>
+				<Calvin size="skinny"
+				<MJ status="GOAT"></MJ>
+			</Scolecomorphidae>
+		</Caecilian>
+        </Amphibians>
+
+        <Reptiles>
+		<Lizard>
+			<Gecko>
+				<Richard hair="long"></Richard>
+				<Josh ego="huge"></Josh>
+			</Gecko>
+
+			<Chameleon>
+				<Julio height="tall"></Julio>
+				<Dez number="88"></Dez>
+			</Chameleon>
+
+			<Iguana>
+				<Antonio height="short"></Antonio>
+				<Jay race="white"></Jay>
+			</Iguana>
+		</Lizard>
+
+		<Turtle>
+			<Sea>
+				<Javier hair="dyed"></Javier>
+				<Addison position="short stop"></Addison>
+			</Sea>
+
+			<Box>
+				<Anthony height="tall"</Anthony>
+				<Kris beard="yes"</Kris>
+			</Box>
+
+			<Snapping>
+				<Wilson position="catcher"</Wilson>
+				<Ben age="medium"</Ben>
+			</Snapping>
+		</Turtle>
+
+		<Snake>
+			<Viper>
+				<Edwards body type="skinny"></Edwards>
+				<Justin beard="yes"></Justin> 
+			</Viper>
+
+			<Mamba>
+				<Albert reflexes="good"></Albert>
+				<Han looks="good"></Han>
+			</Mamba>
+
+			<Cobra>
+				<Harambe status="deceased"></Harambe>
+				<Jon hair="black"></Jon>
+			</Cobra>
+		</Snake>
+        </Reptiles>
+</Animals>
+
