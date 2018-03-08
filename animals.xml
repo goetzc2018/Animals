@@ -101,7 +101,7 @@
 				<Phillip is="baby"><Phillip>
 			</Tiger>
 		</Shark>
-        </Fish
+        </Fish>
 
         <Birds>
 		<Owl>
@@ -182,7 +182,7 @@
 
 			<Lungless>
 				<Asher face="moles"></Asher>
-				<Anna hair="brown"
+				<Anna hair="brown">
 			</Lungless>
 
 			<Giant>
@@ -203,7 +203,7 @@
 			</Rhinatrematidae>
 				
 			<Scolecomorphidae>
-				<Calvin size="skinny"
+				<Calvin size="skinny"></Calvin>
 				<MJ status="GOAT"></MJ>
 			</Scolecomorphidae>
 		</Caecilian>
@@ -234,8 +234,8 @@
 			</Sea>
 
 			<Box>
-				<Anthony height="tall"</Anthony>
-				<Kris beard="yes"</Kris>
+				<Anthony height="tall"></Anthony>
+				<Kris beard="yes"></Kris>
 			</Box>
 
 			<Snapping>
